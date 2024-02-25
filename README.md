@@ -1,1 +1,1 @@
-# navigatior
+# navigator
